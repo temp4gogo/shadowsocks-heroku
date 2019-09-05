@@ -22,11 +22,13 @@ Heroku 提供免费账号，部分介绍如下：
 注册地址：https://signup.heroku.com/ （注册和部署过程可能需要梯子[#10](https://github.com/onplus/shadowsocks-heroku/issues/10)，[#14](https://github.com/onplus/shadowsocks-heroku/issues/14)）
 
 ## 部署
-1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/onplus/shadowsocks-heroku/tree/re)
-  
-    也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/onplus/v2hero)**
+1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/shadowsocks-heroku/tree/re)
 
-1. 设置 加密算法和app 密码
+或[部署`master`(mrluanma版)](https://heroku.com/deploy?template=https://github.com/temp4gogo/shadowsocks-heroku/tree/master)
+  
+也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/onplus/v2hero)**
+
+2. 设置 加密算法和app 密码
 
 ![deploy](https://user-images.githubusercontent.com/31188782/31343896-ab0a868a-ad43-11e7-8a83-369cf5e385b0.jpg)
 
