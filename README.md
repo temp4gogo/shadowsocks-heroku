@@ -24,9 +24,9 @@ Heroku 提供免费账号，部分介绍如下：
 ## 部署
 1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/shadowsocks-heroku/tree/re)
 
-或[部署`master`(mrluanma版)](https://heroku.com/deploy?template=https://github.com/temp4gogo/shadowsocks-heroku/tree/master)
+    或[部署`master`(mrluanma版)](https://heroku.com/deploy?template=https://github.com/temp4gogo/shadowsocks-heroku/tree/master)
   
-也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/onplus/v2hero)**
+    也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/onplus/v2hero)**
 
 2. 设置 加密算法和app 密码
 
